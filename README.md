@@ -13,7 +13,7 @@
   * Filters
   * If Statments
   * Bootstrap components
-  * Adding Data
+  * Adding Dataf
   *Costomize the Page with CSS
  we learn all the above steps which is neccesarry for customize the propare webpage or as I said that the basic things we learnt during this project.
 # Results
@@ -26,4 +26,6 @@
     * If you want to clear the Filter search then you just have to simply press the **Enter Button anywhere on the webpage area or refresh the page.**
     [!image](link)
 # Summury
+  * In summury i want to describe something which is bothering me when i read the instruction in the challange and that is,
+      * Why there is an instructions to remove the **Filter Table Button** even we can add one more Button **Remove Filter Button** which makes this website more                  reliable.
  
