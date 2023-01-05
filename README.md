@@ -22,9 +22,12 @@
     * First, we have to access the website.
     * second, find the **Filter Search** title, under this title we can see the different paramaters and their titles.
     * Now, what we have to do is just type the name of paramaters or Ids from what you want to filter the data and thats it ,once you type your criteria or the Ids             inside the parameters and press enter n you will get your result.
-    [!image](link)
+    * In following image we filter the data **date,city and state** wise.
+    ![filter](filter.png)
     * If you want to clear the Filter search then you just have to simply press the **Enter Button anywhere on the webpage area or refresh the page.**
-    [!image](link)
+    * In the image we can see that we use the filter on **state and shape** paramaters.
+    ![filter2](filter2.png)
+
 # Summury
   * In summury i want to describe something which is bothering me when i read the instruction in the challange and that is,
       * Why there is an instructions to remove the **Filter Table Button** even we can add one more Button **Remove Filter Button** which makes this website more                  reliable.
